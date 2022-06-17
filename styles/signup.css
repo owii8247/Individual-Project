@@ -1,0 +1,47 @@
+
+ #shopbopimg {
+  width: 180px;
+  height: 50px;
+  margin-left: 43%;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+  #container {
+    width: 35%;
+    padding: 25px;
+    margin: auto;
+    /* border: 1px solid black; */
+
+  }
+  label{
+    font-size: small;
+  }
+  input{
+    width: 92%;
+    padding: 10px;
+  }
+  #submit{
+    width: 97%;
+    padding: 10px;
+    color: white;
+    background-color: tomato;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+
+}
+p{
+  font-size: small;
+}
+span{
+  color: tomato;
+  cursor: pointer;
+}
+a{
+  text-decoration: none;
+}
+  
+img{
+  margin-left: 15%;
+}
